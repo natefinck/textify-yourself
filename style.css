@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+}
+
+p {
+    background-image: url("./IMG_8127.jpeg");
+    background-size: 100%;
+    -webkit-background-clip: text;
+    color: transparent;
+    line-height: 50%;
+}
